@@ -1,0 +1,55 @@
+﻿using System.Net.Sockets;
+using System.Reflection.Metadata.Ecma335;
+
+class Progrram
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine($"Please input your ticket:");
+        string input1 = Console.ReadLine();
+
+        string Classify = GetAccessArea(input1);
+        Console.WriteLine(Classify);
+        //subtoturial
+        Console.WriteLine($"Total of monster you killed?");
+
+        string input2 = Console.ReadLine();
+        int basicScore = 10;
+        bool IsValidNumber = int.TryParse(input2, out int value);
+        int TotalScore = CalculateScore(value, basicScore);
+        if (!IsValidNumber)
+        {
+            Console.WriteLine($"please input real number of monster");
+        }
+        else if (value > 5)
+        {
+            int Totalthan5 = (basicScore * TotalScore) + 50;
+        }
+        else if (value < 0)
+        {
+            Console.WriteLine($"please input real number of monster");
+        }
+        else Console.WriteLine($"please input real number of monster");
+    }
+    }
+    static string GetAccessArea(string ticketType)
+    {
+        if (ticketType == "VIP")
+        {
+            return "Ticket Type: VIP \n Khu vực ghế salon và đồ uống miễn phí";
+        }
+        else if (ticketType == "Standard")
+        {
+            return "Ticket Type: Standard \n Khu vực ghế ngồi chung";
+        }
+        else
+        {
+            return $"Vé không hợp lệ, mời ra ngoài";
+        }
+    }
+    static int CalculateScore(int value, int basicScore)
+    {
+        int Total = basicScore * value;
+        return Total;
+    }
+}
