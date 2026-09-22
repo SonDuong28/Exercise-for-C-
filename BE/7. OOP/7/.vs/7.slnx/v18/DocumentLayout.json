@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Trainning\\BE\\7. OOP\\7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D677D8F-5238-4F8F-BDE6-D9FF1A8ED22D}|7\\7.csproj|c:\\users\\admin\\desktop\\trainning\\be\\7. oop\\7\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D677D8F-5238-4F8F-BDE6-D9FF1A8ED22D}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D677D8F-5238-4F8F-BDE6-D9FF1A8ED22D}|7\\7.csproj|c:\\users\\admin\\desktop\\trainning\\be\\7. oop\\7\\7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D677D8F-5238-4F8F-BDE6-D9FF1A8ED22D}|7\\7.csproj|solutionrelative:7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Trainning\\BE\\7. OOP\\7\\7\\Book.cs",
+              "RelativeDocumentMoniker": "7\\Book.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Trainning\\BE\\7. OOP\\7\\7\\Book.cs",
+              "RelativeToolTip": "7\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T12:05:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Trainning\\BE\\7. OOP\\7\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Trainning\\BE\\7. OOP\\7\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:58:59.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

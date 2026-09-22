@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\bin\Debug\net10.0\6.exe
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\bin\Debug\net10.0\6.deps.json
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\bin\Debug\net10.0\6.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\bin\Debug\net10.0\6.dll
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\bin\Debug\net10.0\6.pdb
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.sourcelink.json
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.dll
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\refint\6.dll
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.pdb
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\ref\6.dll
+C:\Users\ADMIN\Desktop\Trainning\6 handle large volumes by foreach\6\6\obj\Debug\net10.0\6.csproj.Up2Date
